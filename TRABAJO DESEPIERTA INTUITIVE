@@ -1,0 +1,520 @@
+<header>
+    <div class="container">
+        <nav class="navbar">
+            <div class="logo">DespiertaIntuitive</div>
+            <ul class="nav-menu">
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios_quirofano">Servicios IA</a></li>
+                <li><a href="#capacitacion_ia">Capacitación IA</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section id="inicio" class="hero">
+    <h1>Cirugía de Precisión. Resultados Asistidos por IA.</h1>
+    <p>Cirugía General de vanguardia, donde la experiencia se fusiona con la Inteligencia Artificial para alcanzar la máxima seguridad y recuperación eficiente.</p>
+    <button class="btn-primary" onclick="mostrarModal()">Solicitar Consulta</button>
+</section>
+
+<section class="services">
+    <div class="container">
+        <h2>Nuestra Doble Propuesta de Valor</h2>
+        <div class="service-cards">
+            <div class="card">
+                <span class="card-icon">🧠</span> 
+                <h3>Cirugía Asistida por Imágenes e IA</h3>
+                <p>Aplicamos algoritmos avanzados para planificación pre-operatoria y guía intra-operatoria. Máxima precisión y seguridad en su procedimiento.</p>
+                <a href="#servicios_quirofano" class="btn-secondary">Saber Más</a>
+            </div>
+            <div class="card">
+                <span class="card-icon">💻</span>
+                <h3>Capacitación Avanzada en IA para la Salud</h3>
+                <p>Programas educativos y talleres para profesionales que buscan integrar el Machine Learning y la toma de decisiones asistida por IA.</p>
+                <a href="#capacitacion_ia" class="btn-secondary">Ver Programas</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="acerca" class="about">
+    <div class="container">
+        <div class="about-content">
+            <div class="about-text">
+                <h2>Acerca de DespiertaIntuitive</h2>
+                <p>Somos la fusión de la **experiencia quirúrgica** de un Cirujano General y la **visión de futuro** de la Inteligencia Artificial. En La Paz, estamos redefiniendo la salud a través de la tecnología, enfocados en la calidad y la confianza.</p>
+                <p>Nuestro compromiso es potenciar la intuición médica con datos precisos, garantizando el estándar más alto para cada paciente y cada estudiante.</p>
+            </div>
+            <div class="about-image">
+                <img src="https://images.pexels.com/photos/7578843/pexels-photo-7578843.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Cirugía Robótica y Asistida por IA">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="why-choose-us">
+    <div class="container">
+        <h2>Por Qué Elegir DespiertaIntuitive</h2>
+        <ul class="why-list">
+            <li>Precisión con IA: Reducción de margen de error gracias a la guía de algoritmos avanzados.</li>
+            <li>Enfoque Quirúrgico: Experiencia de un cirujano general con visión futurista en la práctica médica.</li>
+            <li>Formación Constante: Acceso a la vanguardia educativa en IA y su aplicación clínica.</li>
+        </ul>
+    </div>
+</section>
+
+<section id="servicios_quirofano" class="sub-page-hero">
+    <div class="container">
+        <h1>Cirugía de Precisión: Maximizando Resultados con IA</h1>
+        <p style="font-size: 1.1em;">Somos pioneros en la aplicación de IA y sistemas de visión artificial para procedimientos de Cirugía General.</p>
+    </div>
+</section>
+
+<section class="content-section">
+    <div class="container">
+        <h2 style="text-align: center; font-size: 2.5em; margin-bottom: 50px;">El Método DespiertaIntuitive: Cuatro Pilares</h2>
+        
+        <div class="feature-grid">
+            
+            <div class="feature-item" style="animation-delay: 0.3s;">
+                <img src="https://images.pexels.com/photos/33829/surgery-operational-medical-clinic.jpg?auto=compress&cs=tinysrgb&w=800" alt="Planificación Quirúrgica" class="procedure-image">
+                <h3>1. Planificación 3D (IA)</h3>
+                <p>Modelado avanzado de la anatomía del paciente para simular la cirugía, optimizando la ruta y minimizando el trauma tisular. **Cirugía no invasiva asistida.**</p>
+            </div>
+            
+            <div class="feature-item" style="animation-delay: 0.6s;">
+                <img src="https://images.pexels.com/photos/7578888/pexels-photo-7578888.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Guía Intra-Operatoria" class="procedure-image">
+                <h3>2. Guía en Tiempo Real</h3>
+                <p>Sistemas de visión por computadora superponen imágenes críticas (nervios, vasos) directamente sobre el campo operatorio. **Precisión micrométrica garantizada.**</p>
+            </div>
+            
+            <div class="feature-item" style="animation-delay: 0.9s;">
+                <img src="https://images.pexels.com/photos/5452285/pexels-photo-5452285.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Recuperación Rápida" class="procedure-image">
+                <h3>3. Pronóstico de Recuperación</h3>
+                <p>La IA analiza datos post-operatorios para personalizar cuidados, identificar riesgos de forma temprana y asegurar una **recuperación rápida y sin complicaciones.**</p>
+            </div>
+            
+            <div class="feature-item" style="animation-delay: 1.2s;">
+                <img src="https://images.pexels.com/photos/4033285/pexels-photo-4033285.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Cirugía General Avanzada" class="procedure-image">
+                <h3>4. Cirugía General de Alto Nivel</h3>
+                <p>La tecnología es una extensión de la habilidad. Nuestro cirujano general aporta el juicio clínico experto, potenciado por la robótica y la visión artificial.</p>
+            </div>
+            
+        </div>
+        
+    </div>
+</section>
+
+<section id="capacitacion_ia" class="sub-page-hero">
+    <div class="container">
+        <h1>Formación en Inteligencia Artificial para el Sector Salud</h1>
+        <p style="font-size: 1.1em;">Entrenamiento práctico y de vanguardia para que los profesionales de salud en Bolivia integren la IA a su práctica diaria.</p>
+    </div>
+</section>
+
+<section class="content-section">
+    <div class="container">
+        <h2 style="text-align: center; font-size: 2.5em; margin-bottom: 50px;">Nuestros Programas Clave</h2>
+        
+        <div class="program-cards">
+            
+            <div class="program-card" style="animation-delay: 0.3s;">
+                <h3>Curso: IA para la Toma de Decisiones Clínicas</h3>
+                <p>Enfocado en el uso de IA para diagnóstico, pronóstico y tratamiento.</p>
+                <ul>
+                    <li>Análisis de Imágenes Médicas (Radiología y Patología)</li>
+                    <li>Modelos Predictivos de Enfermedades</li>
+                    <li>Ética y Riesgos de la IA en Medicina</li>
+                </ul>
+                <a href="#contacto" class="btn-secondary">Inscribirse Ahora</a>
+            </div>
+            
+            <div class="program-card" style="animation-delay: 0.6s;">
+                <h3>Workshop: Machine Learning para el Quirófano</h3>
+                <p>Específico para cirujanos y personal de quirófano. Profundiza en sistemas robóticos y guiado por visión artificial.</p>
+                <ul>
+                    <li>Visión por Computadora Intra-Operatoria</li>
+                    <li>Modelado 3D Pre-Quirúrgico</li>
+                    <li>Optimización de Flujo de Trabajo Quirúrgico</li>
+                </ul>
+                <a href="#contacto" class="btn-secondary">Solicitar Agenda</a>
+            </div>
+            
+            <div class="program-card" style="animation-delay: 0.9s;">
+                <h3>Diplomado: Data Science en Gestión Hospitalaria</h3>
+                <p>Dirigido a administradores de hospitales y gerentes de salud.</p>
+                <ul>
+                    <li>Optimización de Citas y Recursos</li>
+                    <li>Análisis de Datos de Facturación y Seguros</li>
+                    <li>Modelado de la Demanda de Servicios de Salud</li>
+                </ul>
+                <a href="#contacto" class="btn-secondary">Más Información</a>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+<footer id="contacto">
+    <div class="container">
+        <p style="font-size: 1.2em; font-weight: 600;">Contáctenos: DespiertaIntuitive</p>
+        <div class="contact-info">
+            <p>📞 Teléfonos: <a href="tel:69856835">69856835</a> - <a href="tel:64169200">64169200</a></p>
+            <p>📍 Ubicación: Zona Achumani Calle Tomasa Murillo, La Paz - Bolivia</p>
+            <p>📧 Email: <a href="mailto:info@despiertaintuitive.com">info@despiertaintuitive.com</a></p>
+        </div>
+        <p style="margin-top: 20px;">&copy; 2025 DespiertaIntuitive. Todos los derechos reservados.</p>
+    </div>
+</footer>
+
+<div id="modalConsulta" class="modal">
+    <div class="modal-content">
+        <span class="close-button" onclick="cerrarModal()">&times;</span>
+        <h3 style="color: var(--color-primary);">Solicitud de Contacto Prioritario</h3>
+        <p>Complete el formulario y le contactaremos de inmediato para discutir su consulta o nuestro programa de capacitación.</p>
+        <form>
+            <input type="text" placeholder="Nombre completo" required>
+            <input type="email" placeholder="Correo electrónico" required>
+            <input type="tel" placeholder="Teléfono (Ej. 69856835)" required>
+            <select required>
+                <option value="" disabled selected>Estoy interesado en...</option>
+                <option value="cirugia">Servicios Quirúrgicos IA</option>
+                <option value="capacitacion">Capacitación en IA</option>
+                <option value="general">Consulta General</option>
+            </select>
+            <textarea placeholder="Mensaje breve (opcional)"></textarea>
+            <button type="submit" class="btn-primary" style="animation: none;">Enviar Solicitud</button>
+        </form>
+    </div>
+</div>
+/* ==================================== */
+/* 1. KEYFRAMES DE ANIMACIÓN */
+/* ==================================== */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(0, 188, 212, 0.4); }
+    70% { box-shadow: 0 0 0 10px rgba(0, 188, 212, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(0, 188, 212, 0); }
+}
+
+/* ==================================== */
+/* 2. VARIABLES Y RESET */
+/* ==================================== */
+:root {
+    --color-primary: #001f3f; /* Azul Marino Oscuro */
+    --color-secondary: #00bcd4; /* Cian Vibrante (Acento - Tecnología) */
+    --color-light: #ffffff;
+    --color-text: #333333;
+    --font-main: 'Montserrat', sans-serif;
+    --color-grey-light: #eef; 
+    --color-dark-grey: #e6e6e6;
+}
+
+body {
+    font-family: var(--font-main);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: var(--color-text);
+    background-color: #f8f8f8;
+    scroll-behavior: smooth; 
+}
+
+h1, h2, h3 {
+    color: var(--color-primary);
+    line-height: 1.2;
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-primary);
+}
+
+/* Contenedor Principal */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* ==================================== */
+/* 3. LAYOUT Y COMPONENTES */
+/* ==================================== */
+
+/* Header */
+header {
+    background-color: var(--color-light);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.logo {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: var(--color-primary);
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-menu a {
+    font-weight: 500;
+    transition: color 0.3s ease;
+    color: var(--color-primary);
+}
+
+.nav-menu a:hover {
+    color: var(--color-secondary);
+}
+
+/* Sección Héroe */
+.hero {
+    background: linear-gradient(rgba(0, 31, 63, 0.85), rgba(0, 31, 63, 0.85)), url('https://images.pexels.com/photos/5452201/pexels-photo-5452201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center/cover no-repeat;
+    color: var(--color-light);
+    text-align: center;
+    padding: 100px 20px;
+    min-height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    animation: fadeIn 1s ease-out; 
+}
+
+.hero h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color: var(--color-light);
+    font-weight: 700;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+    max-width: 600px;
+    font-weight: 300;
+}
+
+/* Botones */
+.btn-primary {
+    /* (Se mantiene el estilo con animación pulse) */
+    display: inline-block;
+    background-color: var(--color-secondary);
+    color: var(--color-light);
+    padding: 12px 30px;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 10px rgba(0, 188, 212, 0.4); 
+    animation: pulse 2s infinite;
+    /* Necesario para que el botón de HTML funcione bien con JS */
+    border: none;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #33d0e1;
+    transform: translateY(-2px);
+    animation: none;
+}
+
+.btn-secondary {
+    display: inline-block;
+    color: var(--color-primary);
+    border: 2px solid var(--color-primary);
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: background-color 0.3s, color 0.3s;
+    margin-top: 15px;
+}
+
+.btn-secondary:hover {
+    background-color: var(--color-primary);
+    color: var(--color-light);
+}
+
+/* Tarjetas de Servicios (Se mantiene la animación fade-in) */
+.services {
+    padding: 80px 20px;
+    text-align: center;
+    background-color: var(--color-light);
+}
+.service-cards {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap; 
+}
+.card {
+    /* ... (Estilos de tarjeta) ... */
+    background-color: var(--color-light);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15); 
+    width: calc(50% - 15px); 
+    max-width: 450px;
+    text-align: center; 
+    transition: transform 0.3s ease;
+    border-top: 5px solid var(--color-secondary); 
+    animation: fadeIn 1s ease-out;
+    opacity: 0; 
+    animation-fill-mode: forwards; 
+}
+
+/* Sub-Páginas Hero (Se mantiene) */
+.sub-page-hero {
+    background-color: var(--color-primary);
+    color: var(--color-light);
+    padding: 80px 20px;
+    text-align: center;
+}
+
+/* Imágenes de Contenido (Se mantiene) */
+.procedure-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* ==================================== */
+/* 4. ESTILOS DEL MODAL (NUEVO) */
+/* ==================================== */
+.modal {
+    display: none; /* Oculto por defecto */
+    position: fixed;
+    z-index: 2000; /* Asegura que esté por encima de todo */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6); /* Fondo semi-transparente */
+    backdrop-filter: blur(3px); /* Efecto de desenfoque moderno */
+    
+    /* Centrar contenido */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: var(--color-light);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    width: 90%;
+    max-width: 450px;
+    position: relative;
+    animation: slideDown 0.3s ease-out;
+}
+
+@keyframes slideDown {
+    from { transform: translateY(-50px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+.close-button {
+    color: var(--color-primary);
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+/* Estilos del formulario dentro del modal */
+.modal-content form input[type="text"],
+.modal-content form input[type="email"],
+.modal-content form input[type="tel"],
+.modal-content form select,
+.modal-content form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0 15px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: var(--font-main);
+}
+
+.modal-content form button[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+
+
+/* Footer (Se mantiene) */
+footer {
+    background-color: var(--color-primary);
+    color: var(--color-light);
+    padding: 40px 20px;
+    text-align: center;
+}
+
+/* Media Queries (Se mantiene) */
+@media (max-width: 768px) {
+    .navbar { flex-direction: column; }
+    .hero h1, .sub-page-hero h1 { font-size: 2.2em; }
+    .service-cards { flex-direction: column; gap: 20px; }
+    .card { width: 100%; }
+}
+// Obtener el elemento modal
+var modal = document.getElementById("modalConsulta");
+
+// Función para mostrar el modal
+function mostrarModal() {
+  modal.style.display = "flex";
+}
+
+// Función para cerrar el modal
+function cerrarModal() {
+  modal.style.display = "none";
+}
+
+// Opcional: Cerrar el modal si el usuario hace clic fuera del contenido
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+
+// Opcional: Manejar el envío del formulario (solo simulación)
+document.querySelector('#modalConsulta form').addEventListener('submit', function(e) {
+  e.preventDefault();
+  
+  // Muestra una confirmación simple al usuario
+  alert("¡Solicitud enviada! DespiertaIntuitive se pondrá en contacto pronto.");
+  
+  // Cierra el modal y resetea el formulario
+  cerrarModal();
+  this.reset();
+});
